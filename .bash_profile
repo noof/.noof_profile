@@ -6,4 +6,4 @@ export LSCOLORS=ExFxBxDxCxegedabagacad
 #Aliasing
 alias ls='ls -GFh'
 alias ll='ls -alh'
-alias as5='ssh rutledge_m@autoserv05.wdmv.wdc.com'
+alias auto5='ssh rutledge_m@autoserv05.wdmv.wdc.com'
