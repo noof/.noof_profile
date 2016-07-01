@@ -20,6 +20,3 @@ set expandtab
 
 " show file stats
 set ruler
-
-" Blink cursor on error instead of beeping
-set visualbell
