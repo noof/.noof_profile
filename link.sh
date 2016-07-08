@@ -5,3 +5,5 @@
 ln -s "$(pwd)"/.vimrc "$HOME"/.vimrc
 
 ln -s "$(pwd)"/.bash_profile "$HOME"/.bash_profile
+
+ln -s "$(pwd)"/.gitconfig "$HOME"/.gitconfig
