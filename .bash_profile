@@ -16,5 +16,4 @@ bind '"\eOB": history-search-forward'
 #Aliasing
 alias ls='ls -GFh'
 alias ll='ls -alh'
-alias auto5='ssh rutledge_m@autoserv05.wdmv.wdc.com'
 alias rebash='source ~/.bash_profile'
