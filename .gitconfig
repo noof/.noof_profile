@@ -2,6 +2,3 @@
 default = simple
 [alias]
 up = "!git remote update -p; git merge --ff-only @{u}"
-[user]
-	name = noof
-	email = miker2808@yahoo.com
